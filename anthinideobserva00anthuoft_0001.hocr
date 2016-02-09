@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "anthinideobserva00anthuoft_0001.png"; bbox 0 0 2426 3848; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 876 918 1669 989">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 876 918 1669 989">
+     <span class='ocr_line' id='line_1_1' title="bbox 876 918 1669 989; baseline 0.006 -17"><span class='ocrx_word' id='word_1_1' title='bbox 876 918 1241 988; x_wconf 69' lang='lat' dir='ltr'><strong>AnthimUS,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1296 924 1669 989; x_wconf 73' lang='lat' dir='ltr'>physician</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 881 1002 1957 1141">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 881 1002 1957 1141">
+     <span class='ocr_line' id='line_1_2' title="bbox 999 1002 1957 1063; baseline 0.008 -8"><span class='ocrx_word' id='word_1_3' title='bbox 999 1002 1289 1057; x_wconf 65' lang='lat' dir='ltr'><strong>Anthimi</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1335 1005 1415 1059; x_wconf 78' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_5' title='bbox 1464 1007 1957 1063; x_wconf 66' lang='lat' dir='ltr'>observatione</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 881 1086 1168 1141; baseline 0.01 -3"><span class='ocrx_word' id='word_1_6' title='bbox 881 1086 1168 1141; x_wconf 69' lang='lat' dir='ltr'>ciborum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 472 232 2252 1758">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 472 232 2252 1758">
+     <span class='ocr_line' id='line_1_4' title="bbox 472 232 2252 1758; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 472 232 2252 1758; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 136 3036 560 3562">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 136 3036 560 3562">
+     <span class='ocr_line' id='line_1_5' title="bbox 136 3036 560 3562; baseline 0 286"><span class='ocrx_word' id='word_1_8' title='bbox 136 3036 560 3562; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
